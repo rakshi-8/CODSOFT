@@ -10,7 +10,3 @@ A Python-based Tic Tac Toe game where the player competes against an AI opponent
 - Python
 - Minimax Algorithm
 - Console
-
-▶️ How to Run:
-```bash
-python tic_tac_toe.py
